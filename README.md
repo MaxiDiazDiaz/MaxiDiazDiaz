@@ -1,5 +1,5 @@
 <h1 align="center">👋 Maxi Díaz</h1>
-<h3 align="center">GeoAI · GIS Developer · Planificación Territorial</h3>
+<h3 align="center">GeoAI · Geografía · GIS Developer · Planificación Territorial</h3>
 
 <p align="center">
 Especialista en análisis geoespacial avanzado, automatización urbanística y modelado ambiental.<br>
