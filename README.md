@@ -1,3 +1,7 @@
+<p align="center">
+<img src="assets/banner.png" />
+</p>
+
 <h1 align="center">👋 Maxi Díaz</h1>
 <h3 align="center">GeoAI · Geografía · GIS Developer · Planificación Territorial</h3>
 
