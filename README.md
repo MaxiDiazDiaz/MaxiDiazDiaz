@@ -79,11 +79,11 @@ Automatización técnica para Evaluación Ambiental Estratégica, análisis de r
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaxiDiazDiaz&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiDiazDiaz&hide_border=true" />
 </p>
 
 ---
@@ -93,11 +93,6 @@ Automatización técnica para Evaluación Ambiental Estratégica, análisis de r
 > Transformar normativa, paisaje y datos espaciales en sistemas inteligentes de decisión territorial.
 
 ---
-
-## 📫 Contacto
-
-* 🌐 https://github.com/tu_usuario
-* 📍 Canarias · Macaronesia
 
 <!-- ===================================================== -->
 
